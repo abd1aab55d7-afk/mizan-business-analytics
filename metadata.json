@@ -1,0 +1,6 @@
+{
+  "name": "Business Insight AI",
+  "description": "Turn your business data into clear decisions. AI-powered business analytics platform for small and medium-sized distributors in Egypt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
